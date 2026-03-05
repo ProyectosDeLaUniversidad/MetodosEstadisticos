@@ -1,0 +1,16 @@
+plots block tratamientos tiempo
+1    101     block1           S3 24
+2    102     block1           S1 16
+3    103     block1           S2 16
+4    201     block2           S3 22
+5    202     block2           S2 17
+6    203     block2           S1 19
+7    301     block3           S2 13
+8    302     block3           S3 19
+9    303     block3           S1 14
+10   401     block4           S3 18
+11   402     block4           S2 12
+12   403     block4           S1 13
+13   501     block5           S2 17
+14   502     block5           S3 22
+15   503     block5           S1 18
